@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "Logan",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fred_O%27Donovan_by_James_Sleator.jpg/800px-Fred_O%27Donovan_by_James_Sleator.jpg",
+      "phone": "000-000-0000",
+      "email": "logan@email.com",
+      "city": "Lahmansville",
+      "state": "WV",
+      "willingToTravel": "true",
+      "distance": "25",
+      "username": "logan",
+      "password": "logan",
+      "id": 1
+    }
+  ],
+  "events": [],
+  "recurringEvents": [],
+  "vendors": [],
+  "timeframes": [],
+  "tasks": [],
+  "financials": [],
+  "categories": [],
+  "categoryItems": [],
+  "reminders": [],
+  "documents": [],
+  "messages": [],
+  "venues": [],
+  "groups": []
+}
